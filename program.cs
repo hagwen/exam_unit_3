@@ -1,10 +1,13 @@
-void SayHelloWorld()
+public static double Square(double number)
 {
-    Console.Writeline("Hello World");
-}
-void Say(String msg)
-{
-    Console.Writeline("msg");
+    // We'll manually multiply the number by itself to get the square
+    double square = number * number;
+    return square;
 }
 
-Console.Writeline("Hello world");
+public static void Main(string[] args)
+{
+    double num = 5.0;
+    double result = Square(num);
+    Console.WriteLine("Square of {0} is {1}", num, result);
+}
