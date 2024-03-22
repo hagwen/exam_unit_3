@@ -1,0 +1,14 @@
+C:\Users\mariu\Documents\Programmering\exam_unit_3\obj\Debug\net7.0\file-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariu\Documents\Programmering\exam_unit_3\obj\Debug\net7.0\file-project.AssemblyInfoInputs.cache
+C:\Users\mariu\Documents\Programmering\exam_unit_3\obj\Debug\net7.0\file-project.AssemblyInfo.cs
+C:\Users\mariu\Documents\Programmering\exam_unit_3\obj\Debug\net7.0\file-project.csproj.CoreCompileInputs.cache
+C:\Users\mariu\Documents\Programmering\exam_unit_3\bin\Debug\net7.0\file-project.exe
+C:\Users\mariu\Documents\Programmering\exam_unit_3\bin\Debug\net7.0\file-project.deps.json
+C:\Users\mariu\Documents\Programmering\exam_unit_3\bin\Debug\net7.0\file-project.runtimeconfig.json
+C:\Users\mariu\Documents\Programmering\exam_unit_3\bin\Debug\net7.0\file-project.dll
+C:\Users\mariu\Documents\Programmering\exam_unit_3\bin\Debug\net7.0\file-project.pdb
+C:\Users\mariu\Documents\Programmering\exam_unit_3\obj\Debug\net7.0\file-project.dll
+C:\Users\mariu\Documents\Programmering\exam_unit_3\obj\Debug\net7.0\refint\file-project.dll
+C:\Users\mariu\Documents\Programmering\exam_unit_3\obj\Debug\net7.0\file-project.pdb
+C:\Users\mariu\Documents\Programmering\exam_unit_3\obj\Debug\net7.0\file-project.genruntimeconfig.cache
+C:\Users\mariu\Documents\Programmering\exam_unit_3\obj\Debug\net7.0\ref\file-project.dll
